@@ -1,0 +1,708 @@
+{
+  "publications": [
+    {
+      "category": "Book chapters",
+      "citation": "Pandit, A., Sawant, S., Mohite, J., & Pappula, S. (2026). Assessing the impact of groundwater overextraction on land subsidence through satellite observations. †",
+      "year": "2026",
+      "unverified": true
+    },
+    {
+      "category": "Book chapters",
+      "citation": "Pandit, A., Sawant, S., Agrawal, R., et al. (2023). A scalable automated satellite data downloading and processing pipeline developed on AWS Cloud for agricultural applications. †",
+      "year": "2023",
+      "unverified": true
+    },
+    {
+      "category": "Journal papers",
+      "citation": "Pandit, A., Sawant, S., Mohite, J. and Pappula, S., 2022. Sentinel-1-derived coherence time-series for crop monitoring in Indian agriculture region. Geocarto International, 37(25), pp.9497-9517.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Journal papers",
+      "citation": "Pandit, A., Sawant, S., Mohite, J. and Pappula, S., 2022. A data-driven approach for bare surface soil moisture estimation using Sentinel-1 SAR data and ground observations. Geocarto International, 37(7), pp.1919-1948.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Journal papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A. and Pappula, S., 2022. Impact of lockdown and crop stubble burning on air quality of India: a case study from wheat-growing region. Environmental Monitoring and Assessment, 194(2), p.77.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Berard, D., Kulkarni, S., Pandit, A., & Singh, D. (2026). Integrating multi-source remote sensing and soil attributes through ensemble learning for large-scale soil organic carbon estimation. †",
+      "year": "2026",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A., & Singh, D. (2026). Pre-ignition forest fire risk prediction using multi-temporal vegetation indices and machine learning: A case study from California. †",
+      "year": "2026",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandit, A., Ahuja, N., Sawant, S., Mohite, J., & Pappula, S. (2025). Mapping land subsidence in Ahmedabad City, India: Interpreting InSAR-derived land subsidence with auxiliary data. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Kumar, J. P., Sawant, S., Mohite, J., et al. (2025). A framework for estimating daily crop water requirements in long-established tea gardens. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Kumar, J. P., Sawant, S., Mohite, J., et al. (2025). A framework for mapping cropping pattern using time series Earth observation data. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Tarsariya, S., Sawant, S., et al. (2025). Integrated approach for scalable cross-pollination risk assessment in hybrid rice seed plots using satellite and weather data. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Thilakarathna, S. K., et al. (2025). Comparative assessment of remote sensing and Holos-based soil organic carbon stock estimation. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mhaisane, D. P., Sawant, S., Mohite, J., et al. (2025). Monitoring temporal dynamics of tillage signals using Sentinel-1 and Sentinel-2 for tillage identification. †",
+      "year": "2025",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A., et al. (2024). Forest aboveground biomass estimation by GEDI and multi-source EO data fusion over Indian forest. †",
+      "year": "2024",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A. and Pappula, S., 2024, July. Sugarcane Area Mapping with Zero Labels Using Hybrid Unsupervised and Supervised Approach. In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 4916-4919). IEEE.",
+      "year": "2024",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A., & Pappula, S. (2024). Forest aboveground biomass estimation using GEDI observations over Indian forest. †",
+      "year": "2024",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Shinde, S., Mohite, J., Bhavsar, K., et al. (2024). Prediction of sugar level in grapes using multispectral imaging. †",
+      "year": "2024",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandit, A., Sawant, S., Mohite, J., Rajpoot, N. and Pappula, S., 2023. Can Radar Backscatter Ratio Be Used to Estimate Ndvi and Act as Its Substitute?–a Study over Winter Wheat Crop in India. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 10, pp.857-862.",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J.D., Sawant, S.A., Pandit, A., Agrawal, R. and Pappula, S., 2023. Soybean Crop Yield Prediction by Integration of Remote Sensing and Weather Observations. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 48, pp.197-202.",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandit, A., Sawant, S., Mohite, J. and Rajpoot, N., 2023, July. Estimation of Wheat Crop Height Using Multivariate Regression and Sentinel-1-Derived Radar Backscatter Response. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 3398-3401). IEEE.",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandit, A., Bansal, P., Sawant, S. and Mohite, J., 2023, July. Machine Learning-Based Approach for Tillage Identification Using Sentinel-1 Data. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 3406-3409). IEEE.",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Agrawal, R., Pandit, A. and Pappula, S., 2023, July. Detection of Cover Crop Using Time-Series Remote Sensing Observations. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 3430-3433). IEEE.",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A. and Pappula, S., 2023, July. Estimation of Soil Organic Carbon and Bulk Density for Carbon Stock Assessment in Croplands Using the Sentinel-1 and 2 Observations. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 3494-3497). IEEE",
+      "year": "2023",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J.D., Sawant, S.A., Pandit, A. and Pappula, S., 2022. Spatial downscaling of SMAP soil moisture using the MODIS and SRTM observations. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, pp.933-938.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Agrawal, R., Mohite, J.D., Sawant, S.A., Pandit, A. and Pappula, S., 2022. Estimation of NDVI for cloudy pixels using machine learning. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, pp.813-818.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A. and Pappula, S., 2022, July. Spatial downscaling of vegetation optical depth using the modis and srtm observations. In IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 5870-5873). IEEE.",
+      "year": "2022",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Agarwal, R., et al. (2022). Detection of crop water stress in maize using drone-based hyperspectral imaging. †",
+      "year": "2022",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Sawant, S., Agarwal, R., Mohite, J., Pandit, A. and Pappula, S., 2021, July. Field Boundary Identification using Convolutional Neural Network and GIS on High Resolution Satellite Observations. In 2021 9th International Conference on Agro-Geoinformatics (Agro-Geoinformatics) (pp. 1-6). IEEE.",
+      "year": "2021",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandiť, A., Sawant, S., Mohite, J. and Pappula, S., 2021, July. Assessing InSAR Coherence for Quantification of Agriculture Area Affected by Rainfall Events in Gujrat, India. In 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (pp. 6761-6764). IEEE.",
+      "year": "2021",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A., & Pappula, S. (2021). Simulation of Sentinel-2 data using hyperspectral data for bare surface soil moisture estimation. †",
+      "year": "2021",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A., et al. (2021). Investigating the performance of hyperspectral and simulated Sentinel-2 data for soybean canopy nitrogen estimation. †",
+      "year": "2021",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J.D., Sawant, S.A., Pandit, A. and Pappula, S., 2020. Investigating the performance of random forest and support vector regression for estimation of cloud-free NDVI using Sentinel-1 SAR data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, pp.1379-1383.",
+      "year": "2020",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Pandit, A. and Pappula, S., 2020, September. Integration of Sentinel 1 and 2 Observations for Mapping Early and Late Sowing of Soybean and Cotton Crop Using Deep Learning. In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium (pp. 1941-1944). IEEE.",
+      "year": "2020",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Singh, D., Mohite, J., Sawant, S. and Pappula, S., 2020, September. Monitoring and Analysis of Viirs Fire Events Data Over Indian States of Punjab and Haryana. In IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium (pp. 4538-4541). IEEE.",
+      "year": "2020",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Pandit, A., Sawant, S., & Mohite, J. (2020). Development of geospatial processing framework for Sentinel-1 and Sentinel-2 satellite data. †",
+      "year": "2020",
+      "unverified": true
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J.D., Sawant, S.A., Rana, S. and Pappula, S., 2019. Wheat area mapping and phenology detection using synthetic aperture radar and multi multi-spectral remote sensing observations. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 42, pp.123-127.",
+      "year": "2019",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S. and Pappula, S., 2019, October. Spatiotemporal surface water mapping using Sentinel-1 data for regional drought assessment. In Remote Sensing for Agriculture, Ecosystems, and Hydrology XXI (Vol. 11149, pp. 47-53). SPIE.",
+      "year": "2019",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Sawant, S., Mohite, J., Surapaneni, P., Pandit, A. and Pappula, S., 2019, October. Towards using vegetation greening and browning patterns obtained from time series of remote sensing observations for irrigation water management. In Remote Sensing for Agriculture, Ecosystems, and Hydrology XXI (Vol. 11149, pp. 296-303). SPIE.",
+      "year": "2019",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Sawant, S., Mohite, J., Sakkan, M. and Pappula, S., 2019, July. Near real time crop loss estimation using remote sensing observations. In 2019 8th international conference on Agro-Geoinformatics (Agro-Geoinformatics) (pp. 1-5). IEEE.",
+      "year": "2019",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, S., Sakkan, M., Shivalli, P., Kodimela, K. and Pappula, S., 2019, July. Spatialization of rice crop yield using sentinel-1 sar and oryza crop growth simulation model. In 2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics) (pp. 1-6). IEEE.",
+      "year": "2019",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J.D., Sawant, S.A., Kumar, A., Prajapati, M., Pusapati, S.V., Singh, D. and Pappula, S., 2018. Operational near real time rice area mapping using multi-temporal sentinel-1 sar observations. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 42, pp.433-438.",
+      "year": "2018",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Sawant, S.A., Mohite, J.D. and Pappula, S., 2018. Integration of Human Participatory Sensing and Archives of Remote Sensing Observations for Field Level Crop Phenology Estimation. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 42, pp.547-550.",
+      "year": "2018",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Sawant, S. and Mohite, J., 2018, July. Towards internet of things based approach for using archives of Earth observation for crop water management in semi-arid areas. In IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium (pp. 3437-3440). IEEE.",
+      "year": "2018",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Twarakavi, N. and Pappula, S., 2018, July. Evaluating the potential of sentinel-2 for low severity mites infestation detection in grapes. In IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium (pp. 4651-4654). IEEE.",
+      "year": "2018",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Gauns, A., Twarakavi, N. and Pappula, S., 2018, May. Evaluating the capabilities of Sentinel-2 and Tetracam RGB+ 3 for multi-temporal detection of thrips on capsicum. In Autonomous air and ground sensing systems for agricultural optimization and phenotyping III (Vol. 10664, pp. 221-227). SPIE.",
+      "year": "2018",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Trivedi, M., Surve, A., Sawant, M., Urkude, R. and Pappula, S., 2017, August. Hybrid classification-clustering approach for export-non export grape area mapping and health estimation using sentinel-2 satellite data. In 2017 6th International Conference on Agro-Geoinformatics (pp. 1-6). IEEE.",
+      "year": "2017",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Sawant, M., Sawant, S., Urkude, R. and Pappula, S., Decision support system for near real time irrigation scheduling using proximal sensor networks and human participatory sensing. In 2017 EFITA WCCA CONGRESS (Vol. 43).",
+      "year": "",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Mohite, J., Jagyasi, B., Kulkarni, S. and Pappula, S., 2016, July. Citrus Gummosis disease severity classification using participatory sensing, remote sensing and weather data. In 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (pp. 6378-6381). IEEE.",
+      "year": "2016",
+      "unverified": false
+    },
+    {
+      "category": "Conference papers",
+      "citation": "Karale, Y.Y., Mohite, J. and Jagyasi, B., 2014, November. Crop classification based on multi-temporal satellite remote sensing data for agro-advisory services. In Land Surface Remote Sensing II (Vol. 9260, pp. 23-30). SPIE.",
+      "year": "2014",
+      "unverified": false
+    }
+  ],
+  "patents": [
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Swagatam Bose Choudhury, Dineshkumar Jang Bahadur Singh, Mariappan Sakkan, Hemavathy B, Abhishek Kumar, Suryakant Ashok Sawant, Sanat Sarangi. “METHOD AND SYSTEM FOR GENERATING BIODIVERSITY MANAGEMENT PROTOCOLS USING COUNTERFACTUAL ECOSYSTEM TRAJECTORY PREDICTIONS.” Indian Patent Application No. 202621102483, filed 01 September 2026. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Duhita Pramod Mhaisane, Suryakant Ashok Sawant, Jayantrao Mohite, Avinash B, Dineshkumar Jang Bahadur Singh. “RISK MONITORING OF HABITAT BASED ON HABITAT DEGRADATION INDEX AND SPECIES SURVIVAL INDEX.” Indian Patent Application No. 202621080085, filed 30 June 2026. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Nandan Singh Rajpoot, Jayantrao Mohite, Ruturaj Nivas Patil, Ankur Pandit, Sanket Kailas Junagade, Sanat Sarangi, Dineshkumar Jang Bahadur Singh. “METHOD AND SYSTEM FOR PREDICTING WEED DYNAMICS USING A HYBRID WEIGHTED EDGE.” Indian Patent Application No. 202621021759, filed 05 March 2026. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Hemavathy B, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Swagatam Bose Choudhury, Mariappan Sakkan, Sanat Sarangi. “SYSTEM AND METHOD FOR ADAPTIVE REAL-TIME DOSE SCHEDULING AND METHANE REDUCTION THEREBY IN RUMINANTS.” Indian Patent Application No. 202621021292, filed 24 February 2026. Foreign filings: (US, EPO)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ajay Mittal, Ruturaj Nivas Patil, Abhishek Kumar, Sanat Sarangi, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh. “METHOD AND SYSTEM FOR PLANT LEAF NUTRIENT CONTENT ESTIMATION.” Indian Patent Application No. 202521134314, filed 01 January 2026. Foreign filings: (US, EPO)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ruturaj Nivas Patil, Sanat Sarangi, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh. “METHOD AND SYSTEM FOR DYNAMIC CARBON INTENSITY ASSESSMENT AND OPTIMIZATION THEREBY.” Indian Patent Application No. 202521134315, filed 01 January 2026. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Dineshkumar Jang Bahadur Singh. “MULTI-AGENT GEOSPATIAL ARTIFICIAL INTELLIGENCE ORCHESTRATION FRAMEWORK FOR DETECTING MULTI-MODE FOREST-BEHAVIOUR CHANGE AND RISK COMPLIANCE SCORING.” Indian Patent Application No. 202521129840, filed 22 December 2025. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ankur Pandit, Jayantrao Mohite, Suryakant Ashok Sawant, Srinivasu Pappula. “SYSTEM AND METHOD FOR MULTI-AGENT COMPLIANCE MARKER GENERATION USING ENSEMBLE FUSION BASED CANOPY HEIGHT ESTIMATION.” Indian Patent Application No. 202521122669, filed 08 December 2025. Foreign filings: none recorded in the supplied register."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Dineshkumar Jang Bahadur Singh. “SEQUENTIAL EVIDENCE ACCUMULATION BASED MOWING DETECTION USING SENSOR DATA SOURCE-SPECIFIC RELIABILITY SCORES.” Indian Patent Application No. 202521119879, filed 03 December 2025. Foreign filings: (US, EPO)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Mariappan Sakkan, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Sanat Sarangi, Suryakant Ashok Sawant, Hemavathy B. “METHODS AND SYSTEMS FOR NEAR REAL-TIME MONITORING OF BIODIVERSITY RICHNESS OF SITE-SPECIFIC AREA.” Indian Patent Application No. 202521112737, filed 26 November 2025. Foreign filings: (US, EPO)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Avinash B, Ankur Pandit, Suryakant Ashok Sawant, Jayantrao Mohite, Srinivasu Pappula. “METHOD AND SYSTEM FOR AUTO-REGRESSIVE SPATIOTEMPORAL RECONSTRUCTION OF A HIGHRESOLUTION AGRICULTURAL IMAGERY.” Indian Patent Application No. 202521100414, filed 27 October 2025. Foreign filings: (US, EPO)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Srinivasu Pappula. “ASSESSING RURAL AGRICULTURAL INFRASTRUCTURE GROWTH READINESS USING MULTI-MODAL SATELLITE DATA DERIVED FUNCTIONAL PROXY INDICATORS.” Indian Patent Application No. 202521089469, filed 22 September 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Srinivasu Pappula, Aditya Tiwari. “GENERATIVE ARTIFICIAL INTELLIGENCE AND MULTI-AGENT COORDINATION BASED SELF-LEARNING ENABLED GRAPH-BASED DIGITAL TWIN NETWORK IN AGRICULTURE.” Indian Patent Application No. 202521078636, filed 22 August 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Jay Prakash Kumar, Avinash B, Duhita Pramod Mhaisane, Dineshkumar Jang Bahadur Singh, Srinivasu Pappula. “METHOD AND SYSTEM FOR FIELD-SCALE AGRICULTURAL EVENT MODELING USING MULTI-MODAL REMOTE SENSING AND SEMANTIC LEARNING.” Indian Patent Application No. 202521075283, filed 08 August 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Duhita Pramod Mhaisane, Suryakant Ashok Sawant, Jayantrao Mohite, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR SOIL SALINITY PREDICTION USING PROCESS-BASED MODELLING AND REMOTE SENSING.” Indian Patent Application No. 202521065568, filed 14 July 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Hemavathy B, Ruturaj Nivas Patil, Sanat Sarangi, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Vaibhav S Lonkar, Srinivasu Pappula. “METHOD AND SYSTEM FOR ASSESSING ANIMAL EMOTIONAL QUOTIENT SCORE AND ANIMAL INTERVENTION THEREOF.” Indian Patent Application No. 202521058196, filed 19 June 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ruturaj Nivas Patil, Hemavathy B, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Sanat Sarangi, Anil Himmatrao Patil, Vaibhav S Lonkar, Srinivasu Pappula. “COMMUNICATION IN ANIMALS WITH PERSONALIZED RESPONSES CONSIDERING SOCIAL COMPATIBILITY AND GROUP COHESION.” Indian Patent Application No. 202521047155, filed 19 May 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Ankur Pandit, Mariappan Sakkan, Siddhesh Deepak Nar, Srinivasu Pappula. “DYNAMIC RISK PROFILING USING GRAPH-BASED DIGITAL TWIN NETWORK AND GENERATIVE ARTIFICIAL INTELLIGENCE FOR AGRICULTURAL INSURANCE.” Indian Patent Application No. 202521034475, filed 09 April 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Mariappan Sakkan, Sanat Sarangi, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Srinivasu Pappula, Hemavathy B. “SYSTEMS AND METHODS FOR REAL-TIME MONITORING OF CLIMATE SMARTNESS OF AN URBAN FOREST REGION.” Indian Patent Application No. 202521029882, filed 31 March 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ankur Pandit, Jayantrao Mohite, Suryakant Ashok Sawant, Srinivasu Pappula. “GENERATING SPATIALLY DISTRIBUTED RESPONSE TO QUERY BY INTELLIGENT SELECTION OF TIME-SERIES REMOTE SENSING DATA.” Indian Patent Application No. 202521027365, filed 26 March 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Hemavathy B, Ruturaj Nivas Patil, Sanat Sarangi, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Srinivasu Pappula. “PREDICTING ANIMAL EMOTIONS USING ANIMAL EMOTION KNOWLEDGE GRAPH AND GRAPH NEURAL NETWORK.” Indian Patent Application No. 202521014089, filed 25 February 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Dineshkumar Jang Bahadur Singh, Ankur Pandit, Srinivasu Pappula. “FIRE AND SOURCE PREDICTION USING DYNAMIC WEIGHTING?BASED ENSEMBLE MODELING AND PROBABILISTIC CAUSE DETERMINATION.” Indian Patent Application No. 202521001797, filed 17 January 2025. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Nandan Singh Rajpoot, Dineshkumar Jang Bahadur Singh, Ankur Pandit, Sanat Sarangi, Jayantrao Mohite, Srinivasu Pappula. “METHOD AND SYSTEM FOR AUTOMATED FARM MANAGEMENT THROUGH INTELLIGENT RESPONSE GENERATION USING CONNECTED QUERY GRAPHS.” Indian Patent Application No. 202421102594, filed 30 December 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ruturaj Nivas Patil, Hemavathy B, Sanat Sarangi, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Srinivasu Pappula. “METHOD AND SYSTEM FOR GENERATING FEED RECOMMENDATION FOR ANIMALS BY PREDICTING HUNGER BASED ON VOCALIZATION PATTERNS.” Indian Patent Application No. 202421093801, filed 09 December 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Srinivasu Pappula. “METHOD AND SYSTEM TO GENERATE SPATIO-TEMPORAL INTERCROP LAYOUTS USING 3D-CNN-LSTM BASED LARGE VISION MODEL.” Indian Patent Application No. 202421079088, filed 23 October 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ankur Pandit, Suryakant Ashok Sawant, Jayantrao Mohite, Srinivasu Pappula. “METHOD AND SYSTEM TO RESPOND ON MUTLIDIMENSIONAL USER QUERIES ON FLOOD IN AN SPECIFIED REGION.” Indian Patent Application No. 202421076622, filed 10 October 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ankur Pandit, Jayantrao Mohite, Suryakant Ashok Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR FORECASTING FLOODS AT FARM-LEVEL USING REMOTE SENSING AND AUXILIARY DATASET.” Indian Patent Application No. 202421076623, filed 10 October 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Dineshkumar Jang Bahadur Singh, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR SEED GENETIC PURITY ESTIMATION AND CROSS-POLLINATION DETECTION IN AGRICULTURAL FIELDS.” Indian Patent Application No. 202421069145, filed 24 September 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR DYNAMIC ESTIMATION OF VERTICAL DISTRIBUTION OF SOIL ORGANIC CARBON (SOC).” Indian Patent Application No. 202421046889, filed 23 June 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Nandan Singh Rajpoot, Ajay Mittal, Salim Hamsa, Ashita Atulkumar Patel, Srinivasu Pappula. “METHOD AND SYSTEM FOR DYNAMIC WEIGHTED METRICSBASED EVALUATION AND TOKENIZATION OF LARGE LANGUAGE MODELS.” Indian Patent Application No. 202421046440, filed 17 June 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Suryakant Ashok Sawant, Jay Prakash Kumar, Jayantrao Mohite, Ankur Pandit, Srinivasu Pappula. “SYSTEM AND METHOD FOR ESTIMATING CROP WATER REQUIREMENT USING MULTI-SENSOR DATA FUSION.” Indian Patent Application No. 202421036177, filed 08 May 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Rajesh Urkude, Srinivasu Pappula. “SYSTEM AND METHOD FOR CREATING NON-FUNGIBLE TOKEN BASED DYNAMIC DECENTRALIZED NETWORK FOR WAREHOUSE COMMODITY MANAGEMENT.” Indian Patent Application No. 202421021572, filed 22 March 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Mariappan Sakkan, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Sanat Sarangi, Ravinkumar S, Srinivasu Pappula. “TOKENIZATION OF SUSTAINABILITY DEVELOPMENT GOALS (SDGs) BASED FARM SUSTAINABILITY INDICES AND CERTIFICATES.” Indian Patent Application No. 202421022071, filed 22 March 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Dineshkumar Jang Bahadur Singh, Ankur Pandit, Srinivasu Pappula. “SYSTEM METHOD AND SYSTEM FOR COMPONENT WISE SEGMENTATION AND PREDICTION OF BIOMASS SATURATION.” Indian Patent Application No. 202421018713, filed 21 March 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Vaibhav S Lonkar, Ashita Atulkumar Patel, Jay Prakash Kumar, Suryakant Ashok Sawant, Aditya Tiwari, Srinivasu Pappula. “SYSTEM AND METHOD FOR PROVIDING PERSONALIZED EXPLAINABLE RESPONSE BY GENERATING MULTIMEDIA PROMPT USING CONTEXTUAL INFORMATION.” Indian Patent Application No. 202421012794, filed 23 February 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ankur Pandit, Jayantrao Mohite, Suryakant Ashok Sawant, Srinivasu Pappula. “METHODS AND SYSTEMS FOR GROUND WATER PREDICTION USING INTEGRATION OF SATELLITE AND AUXILIARY OBSERVATIONS.” Indian Patent Application No. 202421004041, filed 25 January 2024. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Ruturaj Nivas Patil, Nandan Singh Rajpoot, Sanat Sarangi, Mariappan Sakkan, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Ajeesha Sebastian, Srinivasu Pappula. “SYSTEM AND METHOD TO DETERMINE CROP GROWTH STAGE NUTRIENT DEFICIENCIES.” Indian Patent Application No. 202321089147, filed 29 December 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Ravinkumar S, Srinivasu Pappula. “ESTIMATION OF DYNAMIC ADOPTION INDEX AND TRANSITION TIME FOR SHIFTING TO REGENERATIVE AGRICULTURE.” Indian Patent Application No. 202321080693, filed 07 December 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Vaibhav S Lonkar, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Nandan Singh Rajpoot, Sanat Sarangi, Srinivasu Pappula. “ESTIMATION OF EFFECTIVE PEST-DISEASE SEVERITY SCORE USING A PERSONALIZED CROP PROTOCOL DRIVEN UNMANNED SCOUTING VEHICLE.” Indian Patent Application No. 202321083027, filed 06 December 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Jay Prakash Kumar, Siddhesh Deepak Nar, Jayshree Dnyaneshwar Kakad, Srinivasu Pappula, Vaibhav S Lonkar. “SYSTEM AND METHOD FOR PERSONALIZED RECOMMENDATION AND TRANSACTION OF NON-FUNGIBLE TOKENS OF LIVESTOCK EMBRYOS.” Indian Patent Application No. 202321079412, filed 24 November 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Vaibhav S Lonkar, Srinivasu Pappula, Sanat Sarangi, Mariappan Sakkan, Ajay Mittal. “DYNAMIC VALUE DETERMINATION AND PERFORMANCE BASED ROYALTY CALCULATION OF NON-FUNGIBLE TOKENS CREATED FOR AGRICULTURAL ASSETS.” Indian Patent Application No. 202321055999, filed 22 August 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Suryakant Ashok Sawant, Jayantrao Mohite, Ankur Pandit, Srinivasu Pappula. “METHODS AND SYSTEMS FOR CROP DAMAGE ASSESMENT USING SEMANTIC REASONING.” Indian Patent Application No. 202321042217, filed 26 June 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Vaibhav S Lonkar, Srinivasu Pappula, Salim Hamsa, Harshal Jain, Ravinkumar S. “ESTIMATING FLEXIBLE CREDIT ELIGIBILITY AND DISBURSEMENT SCHEDULE USING NON-FUNGIBLE TOKENS (NFTs) OF AGRICULTURAL ASSETS.” Indian Patent Application No. 202321037342, filed 05 June 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Ankur Pandit, Suryakant Ashok Sawant, Rishabh Agrawal, Srinivasu Pappula. “METHODS AND SYSTEMS FOR PRECISE ESTIMATION OF CARBON EMISSION DUE TO TILLAGE OPERATIONS.” Indian Patent Application No. 202321024775, filed 31 March 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Rishabh Agrawal, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR ESTIMATION OF COVER CROP DURATION AND INTEGRATED COVER CROP INDEX (ICCI).” Indian Patent Application No. 202321019091, filed 24 March 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Vaibhav S Lonkar, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Srinivasu Pappula, Sanat Sarangi, Suryakant Ashok Sawant, Mariappan Sakkan. “SYSTEMS AND METHODS FOR MONITORING AND MANAGING FARM VERSIONS AND MEASURING PORTABILITY TO TARGET FARMS.” Indian Patent Application No. 202321020023, filed 24 March 2023. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Rishabh Agrawal, Ankur Pandit, Srinivasu Pappula. “METHODS AND SYSTEMS FOR HIGH RESOLUTION AND SCALABLE CROP YIELD FORECASTING.” Indian Patent Application No. 202221041643, filed 22 July 2022. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Rishabh Agarwal, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR DETECTION OF FIELD BOUNDARIES USING COARSE RESOLUTION SATELLITE DATA AND GIS.” Indian Patent Application No. 202221013927, filed 15 March 2022. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Mariappan Sakkan, Vaibhav Lonkar, Srinivasu Pappula. “SYSTEMS AND METHODS FOR DETECTING DISGUISED NON-PERFORMING ASSETS [NPAs] AND PREDICTING POTENTIAL NPAs IN AGRICULTURE.” Indian Patent Application No. 202121037114, filed 25 August 2021. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Srinivasu Pappula, Mariappan Sakkan. “METHOD AND SYSTEM FOR IDENTIFICATION OF AGRO-PHENOLOGICAL ZONES AND UPDATION OF AGRO-PHENOLOGICAL ZONES.” Indian Patent Application No. 202121018449, filed 26 April 2021. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR PROVIDING GENERALIZED APPROACH FOR CROP MAPPING ACROSS REGIONS WITH VARYING CHARACTERISTICS.” Indian Patent Application No. 202121003692, filed 01 February 2021. Foreign filings: (US, EPO, Brazil)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR CROP LOSS ESTIMATION.” Indian Patent Application No. 202021013244, filed 28 March 2020. Foreign filings: (US, EPO, Brazil, PCT)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Sanjay Kimbahune, Dineshkumar Singh, Suryakant Sawant, Subhadra Varma Pusapati, Srinivasu Pappula. “SYSTEM AND METHOD FOR COMPUTING BURNING INDEX SCORE PERTAINING TO CROPS.” Indian Patent Application No. 201921006105, filed 22 February 2019. Foreign filings: (US, EPO, Brazil, PCT)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Jayantrao Mohite, Sanjay Kimbahune, Srinivasu Pappula, Dineshkumar Singh, Sanat Sarangi. “METHOD AND SYSTEM FOR PLANT HEALTH ESTIMATION.” Indian Patent Application No. 201921001768, filed 30 January 2019. Foreign filings: (US, EPO, Brazil, PCT)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Sandika Biswas, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR PEST FORECASTING USING HISTORICAL PESTICIDE USAGE INFORMATION.” Indian Patent Application No. 201621023796, filed 14 July 2016. Foreign filings: (US, China, South Africa)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Sandika Biswas, Jayantrao Mohite. “METHOD AND SYSTEM FOR AGRICULTURE FIELD CLUSTERING AND ECOLOGICAL FORECASTING.” Indian Patent Application No. 201621004643, filed 10 March 2016. Foreign filings: (US, EPO, China, South Africa)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR ESTIMATING EFFECTIVE PEST SEVERITY INDEX.” Indian Patent Application No. 201621000220, filed 11 January 2016. Foreign filings: (US, China, South Africa)."
+    },
+    {
+      "category": "Filed",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite. “Method And System Facilitating Analysis Of User Behavior Associated With Usage Of A Communication Device.” Indian Patent Application No. 3971/MUM/2014, filed 25 February 2015. Foreign filings: (US, EPO, China, South Africa)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Ankur Pandit, Suryakant Ashok Sawant, Jayantrao Mohite, Srinivasu Pappula. “METHOD AND SYSTEM TO RESPOND ON MUTLIDIMENSIONAL USER QUERIES ON FLOOD IN AN SPECIFIED REGION.” US Patent No. 12743430, granted 22 September 2026 (Application No. 19/251,555; filed 30 June 2025)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Jay Prakash Kumar, Siddhesh Deepak Nar, Jayshree Dnyaneshwar Kakad, Srinivasu Pappula, Vaibhav S Lonkar. “SYSTEM AND METHOD FOR PERSONALIZED RECOMMENDATION AND TRANSACTION OF NON-FUNGIBLE TOKENS OF LIVESTOCK EMBRYOS.” US Patent No. 12725194, granted 01 September 2026 (Application No. 18/901,093; filed 01 October 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Rishabh Agrawal, Srinivasu Pappula, Ankur Pandit, Suryakant Ashok Sawant. “METHODS AND SYSTEMS FOR HIGH RESOLUTION AND SCALABLE CROP YIELD FORECASTING.” US Patent No. 12725079, granted 01 September 2026 (Application No. 18/209,080; filed 18 June 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Ruturaj Nivas Patil, Nandan Singh Rajpoot, Sanat Sarangi, Mariappan Sakkan, Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Ajeesha Sebastian, Srinivasu Pappula. “SYSTEM AND METHOD TO DETERMINE CROP GROWTH STAGE NUTRIENT DEFICIENCIES.” EPO Patent No. 4579613, granted 26 August 2026 (Application No. 24 220 886.6; filed 24 December 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Vaibhav S Lonkar, Dineshkumar Jang Bahadur Singh, Jayantrao Mohite, Srinivasu Pappula, Sanat Sarangi, Suryakant Ashok Sawant, Mariappan Sakkan. “SYSTEMS AND METHODS FOR MONITORING AND MANAGING FARM VERSIONS AND MEASURING PORTABILITY TO TARGET FARMS.” India Patent No. 594731, granted 08 July 2026 (Application No. 202321020023; filed 24 March 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Rishabh Agarwal, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR DETECTION OF FIELD BOUNDARIES USING COARSE RESOLUTION SATELLITE DATA AND GIS.” India Patent No. 593969, granted 01 July 2026 (Application No. 202221013927; filed 15 March 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Rishabh Agrawal, Ankur Pandit, Srinivasu Pappula. “METHODS AND SYSTEMS FOR HIGH RESOLUTION AND SCALABLE CROP YIELD FORECASTING.” India Patent No. 592964, granted 22 June 2026 (Application No. 202221041643; filed 22 July 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Vaibhav S Lonkar, Srinivasu Pappula, Sanat Sarangi, Mariappan Sakkan, Ajay Mittal. “DYNAMIC VALUE DETERMINATION AND PERFORMANCE BASED ROYALTY CALCULATION OF NON-FUNGIBLE TOKENS CREATED FOR AGRICULTURAL ASSETS.” US Patent No. 12614238, granted 28 April 2026 (Application No. 18/785,568; filed 05 August 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Vaibhav S Lonkar, Ashita Atulkumar Patel, Jay Prakash Kumar, Suryakant Ashok Sawant, Aditya Tiwari, Srinivasu Pappula. “SYSTEM AND METHOD FOR PROVIDING PERSONALIZED EXPLAINABLE RESPONSE BY GENERATING MULTIMEDIA PROMPT USING CONTEXTUAL INFORMATION.” US Patent No. 12591608, granted 31 March 2026 (Application No. 19/057,227; filed 21 February 2025)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Sanat Sarangi, Dineshkumar Singh, Srinivasu Pappula, Sanjay Kimbahune. “METHOD AND SYSTEM FOR PLANT HEALTH ESTIMATION.” Brazil Patent No. BR 112021013973 7, granted 31 March 2026 (Application No. BR 11 2021 013973-7; filed 26 July 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Ankur Pandit, Suryakant Ashok Sawant, Rishabh Agrawal, Srinivasu Pappula. “METHODS AND SYSTEMS FOR PRECISE ESTIMATION OF CARBON EMISSION DUE TO TILLAGE OPERATIONS.” US Patent No. 12573038, granted 10 March 2026 (Application No. 18/397,475; filed 29 December 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Rishabh Agrawal, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR ESTIMATION OF COVER CROP DURATION AND INTEGRATED COVER CROP INDEX (ICCI).” EPO Patent No. 4435733, granted 04 February 2026 (Application No. 23217896.2; filed 27 December 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Ashok Sawant, Ankur Pandit, Ravinkumar S, Srinivasu Pappula. “ESTIMATION OF DYNAMIC ADOPTION INDEX AND TRANSITION TIME FOR SHIFTING TO REGENERATIVE AGRICULTURE.” EPO Patent No. 4564248, granted 14 January 2026 (Application No. 24 207 503.4; filed 24 October 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Suryakant Ashok Sawant, Jayantrao Mohite, Ankur Pandit, Srinivasu Pappula. “METHODS AND SYSTEMS FOR CROP DAMAGE ASSESMENT USING SEMANTIC REASONING.” EPO Patent No. 4480295, granted 26 November 2025 (Application No. 24 181 553.9; filed 14 June 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Ankur Pandit, Suryakant Ashok Sawant, Rishabh Agrawal, Srinivasu Pappula. “METHODS AND SYSTEMS FOR PRECISE ESTIMATION OF CARBON EMISSION DUE TO TILLAGE OPERATIONS.” EPO Patent No. 4437823, granted 05 November 2025 (Application No. 23218951.4; filed 27 December 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Srinivasu Pappula, Suryakant Sawant, Vaibhav Lonkar, Mariappan Sakkan, Ankur Pandit. “SYSTEMS AND METHODS FOR DETECTING DISGUISED NON-PERFORMING ASSETS (NPAs) AND PREDICTING POTENTIAL NPAs IN AGRICULTURE.” EPO Patent No. 4138026, granted 03 September 2025 (Application No. 22185220.5; filed 22 July 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Dineshkumar Jang Bahadur Singh, Suryakant Ashok Sawant, Vaibhav S Lonkar, Salim Hamsa, Harshal Jain, Ravinkumar S, Srinivasu Pappula. “ESTIMATING FLEXIBLE CREDIT ELIGIBILITY AND DISBURSEMENT SCHEDULE USING NON-FUNGIBLE TOKENS (NFTs) OF AGRICULTURAL ASSETS.” EPO Patent No. 4471703, granted 13 August 2025 (Application No. 24 174 246.9; filed 15 June 2024)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Ankur Pandit, Rishabh Agarwal, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR DETECTION OF FIELD BOUNDARIES USING COARSE RESOLUTION SATELLITE DATA AND GIS.” EPO Patent No. 4246462, granted 30 July 2025 (Application No. 23 158 020.0; filed 24 February 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Ankur Pandit, Rishabh Agarwal, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR DETECTION OF FIELD BOUNDARIES USING COARSERESOLUTION SATELLITE DATA AND GIS.” US Patent No. 12340516, granted 24 June 2025 (Application No. 18/175,158; filed 06 March 2023)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Mariappan Sakkan, Ankur Pandit, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR IDENTIFICATION OF AGRO-PHENOLOGICAL ZONES AND UPDATION OF AGRO-PHENOLOGICAL ZONES.” EPO Patent No. 4080451, granted 04 June 2025 (Application No. 21 203 485.4; filed 20 October 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR PROVIDING GENERALIZED APPROACH FOR CROP MAPPING ACROSS REGIONS WITH VARYING CHARACTERISTICS.” Brazil Patent No. 102022001453 1, granted 20 May 2025 (Application No. BR 10 2022 001453 1; filed 03 February 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Srinivasu Pappula, Suryakant Sawant, Vaibhav Lonkar, Mariappan Sakkan, Ankur Pandit. “SYSTEMS AND METHODS FOR DETECTING DISGUISED NON5 PERFORMING ASSETS (NPAs) AND PREDICTING POTENTIAL NPAs IN AGRICULTURE.” US Patent No. 12182751, granted 31 December 2024 (Application No. 17/813,371; filed 22 July 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Mariappan Sakkan, Ankur Pandit, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR IDENTIFICATION OF AGRO-PHENOLOGICAL ZONES AND UPDATION OF AGRO-PHENOLOGICAL ZONES.” US Patent No. 12159456, granted 03 December 2024 (Application No. 17/451,664; filed 22 October 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR CROP LOSS ESTIMATION.” US Patent No. 12087052, granted 10 September 2024 (Application No. 17/756,073; filed 20 May 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Srinivasu Pappula. “METHOD AND SYSTEM FOR CROP LOSS ESTIMATION.” India Patent No. 547865, granted 16 August 2024 (Application No. 202021013244; filed 28 March 2020)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Sanat Sarangi, Dineshkumar Singh, Srinivasu Pappula, Sanjay Kimbahune. “METHOD AND SYSTEM FOR PLANT HEALTH ESTIMATION.” US Patent No. 12039730, granted 16 July 2024 (Application No. 17/372,725; filed 26 July 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Srinivasu Pappula. “METHOD AND SYSTEM FOR PROVIDING GENERALIZED APPROACH FOR CROP MAPPING ACROSS REGIONS WITH VARYING CHARACTERISTICS.” US Patent No. 12033368, granted 09 July 2024 (Application No. 17/585,108; filed 02 February 2022)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Ankur Pandit, Srinivasu Pappula, Mariappan Sakkan. “METHOD AND SYSTEM FOR IDENTIFICATION OF AGRO-PHENOLOGICAL ZONES AND UPDATION OF AGRO-PHENOLOGICAL ZONES.” India Patent No. 538533, granted 17 May 2024 (Application No. 202121018449; filed 26 April 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Sandika Biswas, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR PEST FORECASTING USING HISTORICAL PESTICIDE USAGE INFORMATION.” India Patent No. 511258, granted 15 February 2024 (Application No. 201621023796; filed 14 July 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Dineshkumar Singh, Suryakant Sawant, Sanjay Kimbahune, Subhadra Varma Pusapati, Srinivasu Pappula. “SYSTEM AND METHOD FOR COMPUTING BURNING INDEX SCORE PERTAINING TO CROPS.” US Patent No. 11893788, granted 06 February 2024 (Application No. 17/431,134; filed 24 August 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Suryakant Sawant, Srinivasu Pappula, Sanjay Kimbahune, Subhadra Varma Pusapati, Dineshkumar Singh. “SYSTEM AND METHOD FOR COMPUTING BURNING INDEX SCORE PERTAINING TO CROPS.” EPO Patent No. 3924874, granted 24 January 2024 (Application No. 20 755 015.3; filed 20 August 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Sanjay Kimbahune, Srinivasu Pappula, Dineshkumar Singh, Sanat Sarangi. “METHOD AND SYSTEM FOR PLANT HEALTH ESTIMATION.” India Patent No. 494848, granted 04 January 2024 (Application No. 201921001768; filed 30 January 2019)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Sanjay Kimbahune, Dineshkumar Singh, Suryakant Sawant, Subhadra Varma Pusapati, Srinivasu Pappula. “SYSTEM AND METHOD FOR COMPUTING BURNING INDEX SCORE PERTAINING TO CROPS.” India Patent No. 473232, granted 26 November 2023 (Application No. 201921006105; filed 22 February 2019)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite. “Method And System Facilitating Analysis Of User Behavior Associated With Usage Of A Communication Device.” India Patent No. 443035, granted 04 August 2023 (Application No. 3971/MUM/2014; filed 25 February 2015)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Jayantrao Mohite, Sanat Sarangi, Dineshkumar Singh, Srinivasu Pappula, Sanjay Kimbahune. “METHOD AND SYSTEM FOR PLANT HEALTH ESTIMATION.” EPO Patent No. 3911570, granted 30 March 2023 (Application No. 20 740 850.1; filed 26 July 2021)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Sandika Biswas, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR PEST FORECASTING USING HISTORICAL PESTICIDE USAGE INFORMATION.” US Patent No. 11397837, granted 26 July 2022 (Application No. 15/648,209; filed 20 July 2017)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR ESTIMATING EFFECTIVE PEST SEVERITY INDEX.” China Patent No. 2016101583355, granted 11 February 2022 (Application No. 201610158335.5; filed 24 March 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Sandika Biswas, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR PEST FORECASTING USING HISTORICAL PESTICIDE USAGE INFORMATION.” China Patent No. 2017105672070, granted 16 April 2021 (Application No. 2017105672070; filed 28 July 2017)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR ESTIMATING EFFECTIVE PEST SEVERITY INDEX.” US Patent No. 10555461, granted 11 February 2020 (Application No. 15/066,891; filed 11 March 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Sandika Biswas, Jayantrao Mohite. “METHOD AND SYSTEM FOR AGRICULTURE FIELD CLUSTERING AND ECOLOGICAL FORECASTING.” US Patent No. 10448582, granted 22 October 2019 (Application No. 15/213,831; filed 27 September 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Sandika Biswas, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR PEST FORECASTING USING HISTORICAL PESTICIDE USAGE INFORMATION.” South Africa Patent No. 201704685, granted 26 June 2019 (Application No. 2017/04685; filed 28 July 2017)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite, Srinivasu Pappula. “SYSTEMS AND METHODS FOR ESTIMATING EFFECTIVE PEST SEVERITY INDEX.” South Africa Patent No. 201601754, granted 28 March 2018 (Application No. 2016/01754; filed 25 May 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Sandika Biswas, Jayantrao Mohite. “METHOD AND SYSTEM FOR AGRICULTURE FIELD CLUSTERING AND ECOLOGICAL FORECASTING.” South Africa Patent No. 201605157, granted 28 February 2018 (Application No. 2016/05157.; filed 23 September 2016)."
+    },
+    {
+      "category": "Granted",
+      "citation": "Bhushan Gurmukhdas Jagyasi, Jayantrao Mohite. “Method And System For Classifying Plant Disease Throughcrowdsourcing Using A Mobile Communication Device.” South Africa Patent No. 201501916, granted 31 August 2016 (Application No. 2015/01916; filed 27 March 2015)."
+    }
+  ]
+}
