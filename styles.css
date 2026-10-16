@@ -122,3 +122,30 @@ footer{background:#071e26;color:#afc5c6;padding:28px 0}.footer-inner{display:fle
   .hero-intro-card p{font-size:1.08rem;line-height:1.75}
   .metric-strip-five{grid-template-columns:1fr 1fr}
 }
+
+/* Desktop first-screen fit, balanced headline and wider introduction */
+@media(min-width:1121px){
+ .hero.hero-full{min-height:0}
+ .hero-grid-single{min-height:0;padding-top:0}
+ .hero-top-grid{grid-template-columns:minmax(0,1.04fr) minmax(0,.96fr);gap:36px;min-height:0}
+ .hero-copy-wide{padding:48px 0 38px}
+ .hero-copy-wide h1{font-size:clamp(2.55rem,3.5vw,3.35rem);line-height:1.13;letter-spacing:-1.75px;margin:16px 0 20px}
+ .hero-copy-wide .eyebrow{font-size:14px;letter-spacing:1.7px}
+ .hero-copy-wide .hero-actions{margin-top:26px}
+ .hero-copy-wide .social-links{margin-top:22px}
+ .hero-intro-card{max-width:none;width:100%;padding:33px 36px}
+ .hero-intro-card p{font-size:1.38rem;line-height:1.62}
+ .hero-full .metric-strip{padding-top:18px;padding-bottom:18px}
+ .metric-strip-five b{font-size:1.9rem}
+ .metric-strip-five span{font-size:12px}
+}
+@media(min-width:701px) and (max-width:1120px){
+ .hero-copy-wide h1{font-size:clamp(2.75rem,4.8vw,4rem)}
+ .hero-intro-card{max-width:100%;width:100%}
+}
+@media(max-width:700px){
+ .hero-copy-wide h1{font-size:clamp(2.1rem,8.4vw,3rem);line-height:1.13}
+ .hero-intro-card{max-width:100%;width:100%}
+}
+.profile-reference{margin-top:10px}
+.profile-reference .inline-link{display:inline-block;font-size:15px;border-bottom:1px solid rgba(22,133,127,.35);padding-bottom:3px}
