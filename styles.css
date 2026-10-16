@@ -61,3 +61,32 @@ footer{background:#071e26;color:#afc5c6;padding:28px 0}.footer-inner{display:fle
 @media(max-width:1120px){.hero-grid{grid-template-columns:1fr;gap:12px}.hero-copy{padding-bottom:12px}.hero-visual{justify-content:flex-start;padding-bottom:8px}.hero-visual img{max-width:100%}.two-col{gap:46px;grid-template-columns:1fr}.research-detail{grid-template-columns:58px 1fr}.contact-grid{grid-template-columns:1fr}}
 @media(max-width:860px){nav{gap:16px;font-size:13px}.wrap{padding:0 24px}.catalog-head{flex-wrap:wrap}.search{width:100%}.search input{flex:1}.metric-strip{grid-template-columns:1fr 1fr;row-gap:24px}.metric-strip>div:nth-child(2){border-right:0}.metric-strip>div{padding:0 12px!important}.contact-panel{border-left:0;border-top:1px solid rgba(158,192,194,.32);padding:26px 0 0}}
 @media(max-width:700px){html{scroll-padding-top:78px}.navwrap{height:72px}.menu-toggle{display:block}nav{display:none;position:absolute;top:72px;left:0;right:0;background:#fff;padding:24px;flex-direction:column;align-items:stretch;gap:16px;border-bottom:1px solid var(--line)}nav.open{display:flex}.hero-grid{min-height:0;padding-top:8px}.hero-copy{padding:52px 0 8px}.hero h1{font-size:clamp(2.7rem,13vw,4rem);letter-spacing:-2px}.hero-sub{font-size:1.08rem}.btn{width:100%;justify-content:space-between}.social-links{gap:12px}.visual-badge{display:none}.section{padding:72px 0}.research-detail{grid-template-columns:1fr;padding:24px 22px}.research-detail .number{justify-content:flex-start}.awards>div{grid-template-columns:86px 1fr 14px;gap:12px}.entries{padding:0 16px}.entries li{grid-template-columns:28px 1fr;gap:10px}.entry-text{font-size:14px}.footer-inner{display:block}.footer-inner>div:last-child{text-align:left;margin-top:14px}}
+
+
+/* Hero revision: full-background Sky–Earth Convergence visual */
+.hero.hero-full{position:relative;background:#071a24;color:#fff;overflow:hidden;min-height:760px}
+.hero-bg{position:absolute;inset:0;background-image:url("hero-sky-earth.png");background-size:cover;background-position:center center;background-repeat:no-repeat;transform:scale(1.02)}
+.hero-shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(4,15,22,.88) 0%,rgba(4,15,22,.76) 34%,rgba(6,19,27,.58) 58%,rgba(7,22,30,.72) 100%),linear-gradient(180deg,rgba(6,20,28,.34) 0%,rgba(7,22,30,.2) 55%,rgba(8,23,31,.72) 100%)}
+.hero-grid-single{position:relative;z-index:2;display:block;min-height:620px;padding-top:42px}
+.hero-copy-wide{max-width:860px;padding:86px 0 90px}
+.hero-copy-wide .eyebrow{font-size:13px;color:#8ff0d4}
+.hero-copy-wide h1{max-width:980px;font-size:clamp(3.5rem,5.8vw,5.5rem);line-height:1.02;letter-spacing:-3.3px;text-shadow:0 10px 32px rgba(0,0,0,.28)}
+.hero-copy-wide .hero-sub{max-width:760px;font-size:1.24rem;color:#ecf6f6;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.hero-copy-wide .social-links{color:#d7eaeb}
+.hero-copy-wide .btn.ghost{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.34)}
+.hero-copy-wide .btn.solid{background:#94ebca}
+.hero-full .metric-strip{position:relative;z-index:2;border-top:1px solid rgba(206,230,228,.18);background:linear-gradient(180deg,rgba(7,25,34,.1),rgba(7,25,34,.32))}
+.hero-full .metric-strip b{color:#b4f4dc}
+.hero-full .metric-strip span{color:#e1ecec}
+@media(max-width:1120px){
+  .hero.hero-full{min-height:700px}
+  .hero-grid-single{min-height:560px}
+  .hero-copy-wide{max-width:100%;padding:78px 0 82px}
+}
+@media(max-width:700px){
+  .hero.hero-full{min-height:0}
+  .hero-grid-single{min-height:0;padding-top:8px}
+  .hero-copy-wide{padding:56px 0 54px}
+  .hero-copy-wide h1{font-size:clamp(2.5rem,12vw,4.1rem);letter-spacing:-2.1px;line-height:1.03}
+  .hero-copy-wide .hero-sub{font-size:1.06rem}
+}
